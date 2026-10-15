@@ -1,1 +1,2 @@
 Developer Operations:
+In devops we mainly use git and explore and get used to the various commands.
