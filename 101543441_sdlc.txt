@@ -1,1 +1,2 @@
 Software Developmet Life Cycle.
+SDLC is a structured repeatable framwork that helps plan, design, build, test, and most importantly maintain software.
