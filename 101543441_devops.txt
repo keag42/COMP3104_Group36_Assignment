@@ -1,2 +1,3 @@
 Developer Operations:
 In devops we mainly use git and explore and get used to the various commands.
+We also learn about Travis CI, where we familliarize ourselves with cloud-based CI/CD
