@@ -1,0 +1,5 @@
+COMP3104, is the title of DevOps course in George Brown taught by the one and only Professor Pritesh. 
+
+This course is taught in 3rd year of the Computer Programming Analysis program.
+
+I like this course because it teaches me a lot of things especially VCS control with git

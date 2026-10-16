@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Keagan Cameron (101543441) - [GitHub](https://github.com/keag42)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
+- **Member 2:** Alfred Ranz Navarro (101571963) - [GitHub](https://github.com/Alfredd1)
 - **Member 3:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 - **Member 4:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
 - **Member 5:** John Smith (1027890) - [GitHub](https://github.com/johnsmith)
