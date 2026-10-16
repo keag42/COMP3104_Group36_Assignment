@@ -1,0 +1,1 @@
+SDLC is an important part of DevOps because it gives it a structure, framework for planning, building, and testing, releasing software and such
