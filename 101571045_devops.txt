@@ -1,1 +1,2 @@
 the comp 3104 course is one of my favorites
+we learned about what git is
