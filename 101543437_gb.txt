@@ -1,6 +1,6 @@
 George Brown College now known as George Brown Polytechnic is a post-secondary instution located in the heart of toront.
 
-It has 3 different campuses located all around Toronto.
-1. St James campus
-2. Casa Loma campus
-3. Waterfront campus
+It has 3 different campuses located all around Toronto:
+    1. St James campus
+    2. Casa Loma campus
+    3. Waterfront campus
