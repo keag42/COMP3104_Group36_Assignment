@@ -1,0 +1,5 @@
+I learnt about various procedures such as GitHub Actions, and I also learnt/worked with GitHub in depth, 
+which allowed me to understand the importance of DevOps engineering. This increases productivity. 
+I highly respect this course as it re-teaches the concepts of github and how we would be able to 
+work easier and collaborate with our pairs. 
+
