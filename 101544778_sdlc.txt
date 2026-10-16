@@ -1,2 +1,6 @@
 DevOps Integrate software development and IT operations to accelerate the software development life cycle 
 while imporving product quality and reliability. 
+One of the main benefits is its speed of delivery to code. 
+By automating build, test, and release processes, DevOps eliminates manual bottlenecks. 
+Teams would be able to push code to production in minutes rather than months, allowing organizations to respond 
+rapidly to market demands and customer feedback. 
