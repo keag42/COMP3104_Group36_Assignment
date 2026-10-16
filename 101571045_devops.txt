@@ -1,2 +1,3 @@
 the comp 3104 course is one of my favorites
 we learned about what git is
+and then we used github actions/travis CI to automate testing
