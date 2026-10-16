@@ -1,0 +1,10 @@
+# Importance of DevOps in the Software Development Lifecycle
+DevOps plays a crucial role in SLDC by briding the gap between the development team and operation team.
+## Pros
+- Faster delivery
+- Improved collaboration
+- Increased Efficiency
+## Cons
+- High inital cost
+- Learning curve
+- Tool complexity
