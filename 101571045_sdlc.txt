@@ -1,2 +1,3 @@
 sdlc means software development life cycle
 devops is important because it allows developers to automate development tasks
+it is more of a philosophy than an actual work field
