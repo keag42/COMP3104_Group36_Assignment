@@ -1,1 +1,4 @@
-George Brown College has 3 distinct main campuses 
+George Brown College has 3 distinct main campuses namely: 
+1. Casa Loma Campus
+2. Waterfront Campus
+3. St. James Campus
