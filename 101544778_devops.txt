@@ -1,0 +1,3 @@
+I learnt about various procedures such as GitHub Actions, and I also learnt/worked with GitHub in depth, 
+which allowed me to understand the importance of DevOps engineering. This increases productivity. 
+
